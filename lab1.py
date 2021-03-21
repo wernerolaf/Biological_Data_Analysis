@@ -2,22 +2,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 from tqdm import tqdm
 
-from Bio import Seq
 from Bio import SeqIO
 from Bio.SeqUtils import GC
 
 
 def gc_content(sequence):
     return sum([c in "GC" for c in sequence])
-
-
-def gc_content2(sequence):
-    return GC(sequence)
-
-
-my_seq = Seq.Seq("GATCGATGGGCCTATATAGGATCGAAAATCGC")
-print(gc_content(my_seq))
-print(gc_content2(my_seq))
 
 
 def sequencer(record, window_size, step, cur=0):
