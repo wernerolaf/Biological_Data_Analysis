@@ -61,4 +61,4 @@ matrix = np.array(
      [31.0, 34.0, 28.0, 0.0, 43.0],
      [23.0, 21.0, 39.0, 43.0, 0.0]])
 
-print(UPGMA(matrix, ["A","B","C","D","E"]))
+#print(UPGMA(matrix, ["A","B","C","D","E"]))
