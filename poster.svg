@@ -19,6 +19,12 @@
   <defs
      id="defs2">
     <rect
+       x="3.183598"
+       y="316.9954"
+       width="45.025172"
+       height="58.214364"
+       id="rect12459" />
+    <rect
        x="217.65843"
        y="298.20063"
        width="69.770004"
@@ -699,10 +705,10 @@
      inkscape:pageopacity="0.48627451"
      inkscape:pageshadow="2"
      inkscape:zoom="0.58175791"
-     inkscape:cx="463.38126"
-     inkscape:cy="546.35638"
+     inkscape:cx="451.34876"
+     inkscape:cy="792.16309"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:pagecheckerboard="false"
@@ -732,7 +738,7 @@
     <g
        style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
        id="g497"
-       transform="matrix(0.01740435,0,0,0.01613998,8.6848359,367.11521)">
+       transform="matrix(0.01740435,0,0,0.01613998,7.3204368,332.09563)">
       <g
          transform="matrix(2.57489,0,0,2.57489,143.14192,734.44578)"
          id="g400"
@@ -7441,13 +7447,48 @@
      inkscape:label="Phylogenetic-Trees"
      style="display:inline">
     <rect
-       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#ff0000;stroke-width:1.32874;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#ff0000;stroke-width:1.35015;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
        id="rect4714-2"
-       width="159.57945"
+       width="164.76418"
        height="239.14223"
-       x="8.7016592"
+       x="3.5169375"
        y="46.481899"
-       rx="0.69614792"
+       rx="0.71876568"
        ry="1.4337462" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="4.5479975"
+       y="322.90778"
+       id="text12455"><tspan
+         sodipodi:role="line"
+         id="tspan12453"
+         x="4.5479975"
+         y="322.90778"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       id="text12457"
+       style="font-style:normal;font-weight:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12459);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-4.7717502e-8,-24.104385)"><tspan
+         x="3.1835938"
+         y="320.85829"><tspan
+           style="shape-inside:url(#rect12459)">Authors:
+</tspan></tspan><tspan
+         x="3.1835938"
+         y="326.14995"><tspan
+           style="shape-inside:url(#rect12459)">Wojciech Kretowicz
+</tspan></tspan><tspan
+         x="3.1835938"
+         y="331.4416"><tspan
+           style="shape-inside:url(#rect12459)">Szymon Maksymiuk
+</tspan></tspan><tspan
+         x="3.1835938"
+         y="336.73326"><tspan
+           style="shape-inside:url(#rect12459)">Kacper Siemaszko
+</tspan></tspan><tspan
+         x="3.1835938"
+         y="342.02491"><tspan
+           style="shape-inside:url(#rect12459)">Olaf Werner</tspan></tspan></text>
   </g>
 </svg>
